@@ -1,0 +1,5 @@
+pymysql==1.1.0
+pandas==1.4.0
+sqlalchemy==1.4.44
+google-cloud-bigquery==3.17.2
+db-dtypes==1.2.0
